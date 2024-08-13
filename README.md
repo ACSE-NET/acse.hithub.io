@@ -15,6 +15,6 @@ ACSE members represents the priorities and interests of secondary school computi
 
 Our mandate is to provide support for educators and students by:
 
-improving information sharing between: secondary Computer Studies and Engineering teachers and elementary teachers implementing computing education in their classroom;
-facilitating computing education dialogue and information sharing with: colleges/universities, industry partners, and non-profit partners;
-supporting the development and sharing of teaching resources.
+- improving information sharing between: secondary Computer Studies and Engineering teachers and elementary teachers implementing computing education in their classroom;
+- facilitating computing education dialogue and information sharing with: colleges/universities, industry partners, and non-profit partners;
+- supporting the development and sharing of teaching resources.

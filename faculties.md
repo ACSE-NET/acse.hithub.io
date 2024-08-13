@@ -18,3 +18,4 @@ The following Ontario universities offer Computer Studies courses for pre-servic
 
 ## District School Board of Niagara (AQ Offering)
 - [Computer Studies Part 1](https://www.dsbn.org)
+

@@ -4,4 +4,4 @@ Please fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSer
 
 If you're already a member, you can access the mail list [here](http://groups.google.ca/group/acse_discussion).
 
-| [Home](README.md) | [Faculties of Education](faculties-of-education.md) | [Mail List](mail-list.md) |
+[Home](README.md) | [Faculties of Education](faculties-of-education.md) | [Mail List](mail-list.md)

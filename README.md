@@ -19,4 +19,4 @@ Our mandate is to provide support for educators and students by:
 - facilitating computing education dialogue and information sharing with: colleges/universities, industry partners, and non-profit partners;
 - supporting the development and sharing of teaching resources.
 
-| [Home](README.md) | [Faculties of Education](faculties-of-education.md) | [Mail List](mail-list.md) |
+[Home](README.md) | [Faculties of Education](faculties-of-education.md) | [Mail List](mail-list.md)
